@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AttendanceTracker {
+public class ServidorAttendanceTracker {
     private HashMap<String, String> attendance;
 
     public AttendanceTracker() {
